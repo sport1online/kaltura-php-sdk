@@ -1,0 +1,6 @@
+{
+    "name": "sport1online/Sport1KalturaClientLibrary",
+    "autoload": {
+        "classmap": [""]
+    }
+}
