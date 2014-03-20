@@ -1,5 +1,5 @@
 {
-    "name": "sport1online/Sport1KalturaClientLibrary",
+    "name": "sport1online/kaltura-php-sdk",
     "autoload": {
         "classmap": [""]
     }
